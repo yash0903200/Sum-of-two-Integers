@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+	int a = 2;
+	int b = 3;
+	cin>>a>>b;
+	cout<<"num is divisible by 4 "<<a % b;
+	
+	return 0;
+}
